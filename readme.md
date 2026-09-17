@@ -18,6 +18,6 @@
 # إخلاء المسؤولية
 هذا البرنامج يعتمد على مكتبة PyIslam لحساب مواقيت الصلاة. فلا يوجد للأسف مكتبة رسمية لهذا الأمر.
 
-<div align="center">
-![صورة لمواقيت الصلاة](Screenshot.png)
-</div>
+<p align="center">
+  <img src="Screenshot.png">
+</p>
